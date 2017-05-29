@@ -1,48 +1,3 @@
-
-Conversation ouverte. 1 message non lu.
-
-Aller au contenu
-Utiliser Gmail avec un lecteur d'écran
-Recherche
-
-
-
-Gmail
-NOUVEAU MESSAGE
-Libellés
-Boîte de réception (1 158)
-Messages suivis
-Messages envoyés
-Brouillons (16)
-Unwanted (45)
-Plus 
-Hangouts
-
- 
- 
- 
-  Plus 
-1 sur 1 796  
- 
-Tout imprimer Dans une nouvelle fenêtre
-(aucun objet) 
-Boîte de réception
-x 
-
-Amine Jai Hokimi <amine.jaihokimi@gmail.com>
-Pièces jointes 13:29 (Il y a 3 minutes)
-
-À moi 
-6 pièces jointes 
- 
-	
-Cliquez ici pour répondre au message ou le transférer
-0,36 Go (2 %) utilisés sur 15 Go
-Gérer
-Conditions d'utilisation - Confidentialité
-Dernière activité sur le compte : Il y a 2 minutes
-Détails
-
 import java.util.Arrays;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.conf.Configured;
@@ -209,6 +164,3 @@ public class TFIDF_driver extends Configured implements Tool{
         return 0;
     }
 } 
-TFIDF_driver.java
-Ouvrir avec
-Affichage de TFIDF_driver.java en cours...
